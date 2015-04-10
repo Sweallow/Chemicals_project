@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ChemicalBus"
+  id="myeclipse.1417678598928"
+  context-root="/ChemicalBus"
+  j2ee-spec="5.0"
+  archive="ChemicalBus.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

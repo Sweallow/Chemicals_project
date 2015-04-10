@@ -1,0 +1,37 @@
+.scTitle {
+	background:url(../img/new/scTitleBg.png) left no-repeat;
+	/*padding: 0px 0 6px 23px;*/
+	font-size: 15px;
+	color:#fff;
+	font-weight:bold;
+	line-height: 54px;
+	padding-left: 20px;
+	width: 98%;
+	margin-bottom: 20px;
+}
+.scSearcher {
+	margin-bottom:10px;
+	background: url(../img/new/searcherBg.png);
+	height: 54px;
+	padding: 0 20px;
+}
+
+.scDlg {
+	display: none;
+}
+
+.scBtn {
+	width: 62px;
+	height: 24px;
+	background: url(../img/btn.gif) no-repeat;
+	border: none;
+	padding: 0;
+	margin: 5px 0;
+	line-height: 24px;
+	text-align: center;
+	font-family: "Î¢ÈíÑÅºÚ";
+	cursor: pointer;
+}
+.scBtn:hover {
+	background: url(../img/btnS.gif) no-repeat;
+}

@@ -1,0 +1,53 @@
+.mainWidth {
+	width:980px;
+	margin:auto;
+}
+
+.header {
+	height:107px;
+	background:url(../sc/img/headerBg.png);
+}
+.logo {
+	height:100px;
+	font-family:'ºÚÌå';
+	font-weight:bold;
+	width:677px;
+	background: url(../sc/img/logo.png) center no-repeat;
+}
+.header .rightBg {
+	width:170px;
+	text-align: right;
+	padding:5px 10px 0 0;
+}
+.header .rightBg a {
+	color: #444;
+	text-decoration: underline;
+}
+.navBar {
+	background:url(../sc/img/navBg.jpg);
+	height:36px;
+}
+.navBar .nav {
+	line-height:36px;
+	width:150px;
+	text-align:center;
+	font-size:15px;
+	color:#262626;
+	cursor:pointer;
+}
+.navBar .nav:hover {
+	background:url(../sc/img/navHover.png) center top no-repeat;
+}
+.navBar .split {
+	width:2px;
+	height:36px;
+	background:url(../sc/img/nvaSplitBg.jpg) top left no-repeat;
+}
+.footer {
+	margin-top:20px;
+	background:#ddd;
+	text-align:center;
+	color:#666;
+	line-height:25px;
+	padding:20px 0;
+}
